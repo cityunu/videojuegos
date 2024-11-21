@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nombre": "Good Of War 1",
+      "compania": "Santa Mónica Studios",
+      "fechaLanzamiento": "22-03-2005"
+    },
+    {
+      "id": 2,
+      "nombre": "LittleBigPlanet",
+      "compania": "Media Molecule",
+      "fechaLanzamiento": "2008-10-27"
+    },
+    {
+      "id": 3,
+      "nombre": "LittleBigPlanet 2",
+      "compania": "Media Molecule",
+      "fechaLanzamiento": "2011-01-18"
+    },
+    {
+      "id": 4,
+      "nombre": "Rayman Origins",
+      "compania": "Ubisoft Montpellier",
+      "fechaLanzamiento": "2011-11-15"
+    }
+  ]
